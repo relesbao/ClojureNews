@@ -16,3 +16,6 @@ pom.xml.asc
 /resources/public/js/out
 /figwheel_server.log
 test/
+
+data/db/*
+!data/db/.gitkeep 
